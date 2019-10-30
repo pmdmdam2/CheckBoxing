@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckBoxing</string>
+    <string name="android">Android</string>
+    <string name="java">Java</string>
+    <string name="php">Php</string>
+    <string name="mysql">Mysql</string>
+    <string name="json">Json</string>
+</resources>
